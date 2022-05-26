@@ -1,0 +1,3 @@
+Si bien las tres plantillas no me resultaron tan dificiles de aprender, prefiero utilizar hbs como plantilla,
+porque siento que su sintaxis me resulta mas familiar, por lo que me resulta mas facil y estoy mas comodo a 
+la hora de utilizarlo.
